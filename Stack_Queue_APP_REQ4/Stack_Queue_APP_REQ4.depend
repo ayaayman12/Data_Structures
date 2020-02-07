@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1580995538 source:f:\sprints bootcamp\data structure\stack_queue_app\queue.c
+	"Queue.h"
+
+1580931893 f:\sprints bootcamp\data structure\stack_queue_app\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"std_types.h"
+
+1579249603 f:\sprints bootcamp\data structure\stack_queue_app\std_types.h
+
+1581007019 source:f:\sprints bootcamp\data structure\stack_queue_app\stack.c
+	"stack.h"
+
+1581006933 f:\sprints bootcamp\data structure\stack_queue_app\stack.h
+	<stdio.h>
+	<stdlib.h>
+	"std_types.h"
+
+1581086129 source:f:\sprints bootcamp\data structure\queue app\stack_queue_app_req4\main.c
+	"Stack.h"
+	"Queue.h"
+	"Queue_App.h"
+
+1581085611 source:f:\sprints bootcamp\data structure\queue app\stack_queue_app_req4\queue.c
+	"Queue.h"
+
+1580931893 f:\sprints bootcamp\data structure\queue app\stack_queue_app_req4\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"std_types.h"
+
+1579249603 f:\sprints bootcamp\data structure\queue app\stack_queue_app_req4\std_types.h
+
+1581009246 source:f:\sprints bootcamp\data structure\queue app\stack_queue_app_req4\stack.c
+	"stack.h"
+
+1581006933 f:\sprints bootcamp\data structure\queue app\stack_queue_app_req4\stack.h
+	<stdio.h>
+	<stdlib.h>
+	"std_types.h"
+
+1581009011 f:\sprints bootcamp\data structure\queue app\stack_queue_app_req4\queue_app.h
+	"Queue.h"
+
+1581086037 source:f:\sprints bootcamp\data structure\queue app\stack_queue_app_req4\queue_app.c
+	"Queue_App.h"
+
+1581086129 source:f:\sprints bootcamp\git hub repository\data_structures\stack_queue_app_req4\main.c
+	"Stack.h"
+	"Queue.h"
+	"Queue_App.h"
+
+1581006933 f:\sprints bootcamp\git hub repository\data_structures\stack_queue_app_req4\stack.h
+	<stdio.h>
+	<stdlib.h>
+	"std_types.h"
+
+1579249603 f:\sprints bootcamp\git hub repository\data_structures\stack_queue_app_req4\std_types.h
+
+1580931893 f:\sprints bootcamp\git hub repository\data_structures\stack_queue_app_req4\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"std_types.h"
+
+1581009011 f:\sprints bootcamp\git hub repository\data_structures\stack_queue_app_req4\queue_app.h
+	"Queue.h"
+
+1581085611 source:f:\sprints bootcamp\git hub repository\data_structures\stack_queue_app_req4\queue.c
+	"Queue.h"
+
+1581086037 source:f:\sprints bootcamp\git hub repository\data_structures\stack_queue_app_req4\queue_app.c
+	"Queue_App.h"
+
+1581009246 source:f:\sprints bootcamp\git hub repository\data_structures\stack_queue_app_req4\stack.c
+	"stack.h"
+
