@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1581006047 source:f:\sprints bootcamp\data structure\stack_queue_app\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+	"Stack.h"
+	"Stack_REQ2.c"
+
+1580931893 f:\sprints bootcamp\data structure\stack_queue_app\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"std_types.h"
+
+1579249603 f:\sprints bootcamp\data structure\stack_queue_app\std_types.h
+
+1581006933 f:\sprints bootcamp\data structure\stack_queue_app\stack.h
+	<stdio.h>
+	<stdlib.h>
+	"std_types.h"
+
+1581006491 f:\sprints bootcamp\data structure\stack_queue_app\stack_req2.c
+	"Stack_REQ2.h"
+
+1580995538 source:f:\sprints bootcamp\data structure\stack_queue_app\queue.c
+	"Queue.h"
+
+1581006491 source:f:\sprints bootcamp\data structure\stack_queue_app\stack_req2.c
+	"Stack_REQ2.h"
+
+1581007019 source:f:\sprints bootcamp\data structure\stack_queue_app\stack.c
+	"stack.h"
+
+1581006499 f:\sprints bootcamp\data structure\stack_queue_app\stack_req2.h
+	"stack.h"
+
