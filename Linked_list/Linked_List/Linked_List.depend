@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1385316878 source:f:\sprints bootcamp\data structure\linked_list\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1581056971 source:f:\sprints bootcamp\data structure\linked_list\linked_list\linked_list.c
+	"Linked_List.h"
+
+1581056995 f:\sprints bootcamp\data structure\linked_list\linked_list\linked_list.h
+	"std_types.h"
+
+1579249603 f:\sprints bootcamp\data structure\linked_list\linked_list\std_types.h
+
